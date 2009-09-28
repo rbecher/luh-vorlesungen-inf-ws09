@@ -1,0 +1,23 @@
+h2. Vorlesungsmitschriften für Informatiker an der Leibniz Universität Hannover
+Wintersemester 2009/2010
+----------------------------------------------------------------
+
+h3. Wie komme ich an alle Mitschriften ran?
+
+# Installiere dir Git
+# Alles ziehen
+## @git clone git://github.com/rbecher/luh-vorlesungen-inf-ws09.git@
+## @git submodule init@
+## @git submodule update@ 
+
+h3. Wie komme ich an einzelne Mitschriften ran?
+
+# Installiere dir Git (surprising, isn't it?)
+# Gehe zu den hier inkludierten Subrepositories (siehe Liste unten)
+# Folge den Anweisungen dort
+
+h3. Wie kann ich mitmachen/mitarbeiten/helfen?
+
+* Du kannst dieses Projekt oder eins der inkludierten forken (z.B. hier auf github) und verbessern
+* Du kannst Patches einschicken (besser zu den einzelnen Vorlesungsmitschriften
+* Ich habe auch eine Amazon-Wunschliste :D
