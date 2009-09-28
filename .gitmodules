@@ -1,0 +1,3 @@
+[submodule "stochastik"]
+	path = stochastik
+	url = git://github.com/rbecher/luh-vorlesungen-inf-ws09-stoch.git
