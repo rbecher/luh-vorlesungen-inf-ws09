@@ -1,4 +1,4 @@
-h2. Vorlesungsmitschriften für Informatiker an der Leibniz Universität Hannover
+h2. Vorlesungsmitschriften fÃ¼r Informatiker an der Leibniz UniversitÃ¤t Hannover
 Wintersemester 2009/2010
 ----------------------------------------------------------------
 
