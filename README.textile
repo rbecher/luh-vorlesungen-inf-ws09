@@ -25,3 +25,5 @@ h3. Wie kann ich mitmachen/mitarbeiten/helfen?
 h3. Liste der eingebundenen Mitschriften
 
 - "Stochastik":http://github.com/rbecher/luh-vorlesungen-inf-ws09-stoch
+- "Numerik Programmieraufgaben":http://github.com/rbecher/luh-vorlesungen-inf-ws09-numerik-programming
+
